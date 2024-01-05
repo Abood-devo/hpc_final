@@ -8,3 +8,8 @@ test/CMakeFiles/
 test/CMakeCache.txt
 test/cmake_install.cmake
 test/Makefile
+
+src/CMakeFiles/
+src/CMakeCache.txt
+src/cmake_install.cmake
+src/Makefile
