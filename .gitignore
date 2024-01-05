@@ -1,0 +1,10 @@
+.vscode/
+bulid/
+opencv/
+```
+main
+
+test/CMakeFiles/
+test/CMakeCache.txt
+test/cmake_install.cmake
+test/Makefile
